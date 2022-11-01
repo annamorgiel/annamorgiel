@@ -6,7 +6,7 @@ My areas are of expertise are feature delivery, Gradle and tooling. I support ru
 
 GitHub contributions:
 
-- 1,1004 contributions in 2021
+- 1,1004 contributions in 2022
 - 964 contributions in 2021
 - 988 contributionsin 2020
 - 1,277 contributions in 2019
