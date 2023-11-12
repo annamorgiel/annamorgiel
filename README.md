@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @annamorgiel, Professional Software Engineer for Android, working with Jetpack Compose, Coroutines and Jetpack Components. 
-My areas are of expertise are feature delivery, Gradle and tooling. I support running Women Techmakers Berlin and GDG Berlin Android events as one of co-organizers.
+- 👋 Hi, I’m @annamorgiel, a Professional Software Engineer for Android, working with Jetpack Compose, Coroutines and Jetpack Components. 
+My areas of expertise are feature delivery, Gradle, and tooling. I support running Women Techmakers Berlin and GDG Berlin Android events as one of co-organizers.
 - 👀 I’m interested in Google Assistant and conversational design
 - 🌱 I’m currently learning Jetpack Compose and technical content delivery
 - 📫 How to reach me - amorgiel@gmail.com
 
 GitHub contributions:
 
+- 1,147 contributions in 2023
 - 1,1004 contributions in 2022
 - 964 contributions in 2021
 - 988 contributionsin 2020
