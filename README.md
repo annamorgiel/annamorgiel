@@ -4,14 +4,6 @@ My areas of expertise are feature delivery, Gradle, and tooling. I support runni
 - 🌱 I’m currently learning Jetpack Compose and technical content delivery
 - 📫 How to reach me - amorgiel@gmail.com
 
-GitHub contributions:
-
-- 1,147 contributions in 2023
-- 1,1004 contributions in 2022
-- 964 contributions in 2021
-- 988 contributionsin 2020
-- 1,277 contributions in 2019
-
 <!---
 annamorgiel/annamorgiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
